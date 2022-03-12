@@ -1,21 +1,10 @@
-### Olá! Eu sou o Victor Miranda 👋
+###Hey there wave
+I'm Victor Miranda Santana man_astronaut. Currently I'm System Analyst at Itaguaí Construções Navais, the only company in the southern emisphere to build Submarines. Working with JavaScript, ReactJS, NodeJS, MongoDB, SQLServer, git, Portainer, Jenkins, Docker and more...
+                                                 
+mortar_board I am graduated in System Analysis and Development,  postgraduating in Software Engeniering.
 
-<div align="center">
-  <a href="https://github.com/ovictormiranda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ovictormiranda&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovictormiranda&layout=compact&langs_count=7&theme=dark"/>
-</div>
+I also love Artificial Intelligence too heart_eyes. I like to play the Iron Man, using Python to do some Computer Vision things. I like to see those things happens.
 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+I have also worked with Data Analysis, Data Visualization, Business Intelligence and others. 
 
-</div>
-  
-##
-  
-![Snake animation](https://github.com/ovictormiranda/ovictormiranda/blob/output/github-contribution-grid-snake.svg)
+The only certainty I have is that learning is an endless road and I want to stay on it. So, I love technolog and applying knowledge to solve problems, create solutions and impact lives. purple_heart
